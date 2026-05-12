@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AksharaDeepa</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="study_hub_subtitle">Your Offline Study Hub</string>
+    <string name="loading_subjects">Loading subjects...</string>
+    <string name="no_subjects_found">No subjects found. Setting up...</string>
+    <string name="start_learning">Start Learning</string>
+</resources>

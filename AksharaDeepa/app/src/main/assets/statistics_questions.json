@@ -1,0 +1,7 @@
+[
+  {"question": "The mean of first five natural numbers is:", "options": ["3", "4", "5", "2"], "answer": "3", "explanation": "(1+2+3+4+5)/5 = 15/5 = 3."},
+  {"question": "Which of the following is a measure of central tendency?", "options": ["Mean", "Median", "Mode", "All of these"], "answer": "All of these", "explanation": "Mean, median, and mode all measure the center of a data set."},
+  {"question": "The mode of the data 2, 3, 3, 5, 5, 5, 7, 2 is:", "options": ["2", "3", "5", "7"], "answer": "5", "explanation": "5 appears the most number of times (3 times)."},
+  {"question": "The formula for finding the mean of grouped data using the direct method is:", "options": ["Σfi*xi / Σfi", "Σfi + xi", "Σxi / n", "None"], "answer": "Σfi*xi / Σfi", "explanation": "Direct method uses frequency (fi) and class mark (xi)."},
+  {"question": "Empirical relationship between three measures of central tendency is:", "options": ["3 Median = Mode + 2 Mean", "Median = 3 Mode + 2 Mean", "Mode = 3 Median + 2 Mean", "None"], "answer": "3 Median = Mode + 2 Mean", "explanation": "This is a standard statistical relationship."}
+]

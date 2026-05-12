@@ -1,0 +1,7 @@
+[
+  {"question": "Which of the following is a non-renewable source of energy?", "options": ["Solar", "Wind", "Coal", "Hydro"], "answer": "Coal", "explanation": "Coal is a fossil fuel and takes millions of years to form, making it non-renewable."},
+  {"question": "The main constituent of biogas is:", "options": ["Methane", "Ethane", "Propane", "Butane"], "answer": "Methane", "explanation": "Biogas contains about 75% methane, making it an excellent fuel."},
+  {"question": "Solar cells are made of:", "options": ["Silicon", "Silver", "Aluminum", "Copper"], "answer": "Silicon", "explanation": "Silicon is a semiconductor commonly used to make solar cells."},
+  {"question": "The minimum wind speed required for a wind mill to generate electricity is about:", "options": ["5 km/h", "15 km/h", "25 km/h", "50 km/h"], "answer": "15 km/h", "explanation": "Wind turbines require a minimum speed of around 15 km/h to maintain the necessary motion."},
+  {"question": "Which energy is harnessed from the heat inside the earth?", "options": ["Nuclear", "Geothermal", "Tidal", "Solar"], "answer": "Geothermal", "explanation": "'Geo' means earth and 'thermal' means heat."}
+]

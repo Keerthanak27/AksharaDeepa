@@ -1,0 +1,37 @@
+// --- Add these to your app/build.gradle.kts (Module Level) ---
+
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    // Needs kapt or ksp for Room
+    id("com.google.devtools.ksp") // Make sure to add KSP plugin in project level too
+}
+
+dependencies {
+    val room_version = "2.6.1"
+    val lifecycle_version = "2.7.0"
+    val work_version = "2.9.0"
+
+    // 1. Room Database (Local Data Storage)
+    implementation("androidx.room:room-runtime:$room_version")
+    implementation("androidx.room:room-ktx:$room_version")
+    ksp("androidx.room:room-compiler:$room_version")
+
+    // 2. Coroutines (Background thread handling for DB)
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
+    
+    // 3. Lifecycle & ViewModel
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version")
+
+    // 4. WorkManager (Background scheduling for reminders & Offline Goal Tracking)
+    implementation("androidx.work:work-runtime-ktx:$work_version")
+
+    // 5. MPAndroidChart (Used for drawing the Radar / Strength Map Chart)
+    // IMPORTANT: Make sure to add `maven { url = uri("https://jitpack.io") }` in your settings.gradle.kts pluginManagement / dependencyResolutionManagement block
+    implementation("com.github.PhilJay:MPAndroidChart:v3.1.0")
+
+    // 6. Navigation Component (Optional but recommended for Fragments)
+    implementation("androidx.navigation:navigation-fragment-ktx:2.7.7")
+    implementation("androidx.navigation:navigation-ui-ktx:2.7.7")
+}

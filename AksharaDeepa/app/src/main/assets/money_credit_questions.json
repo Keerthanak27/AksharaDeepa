@@ -1,0 +1,7 @@
+[
+  {"question": "What is the main function of money?", "options": ["Medium of exchange", "Store of value", "Measure of value", "All of these"], "answer": "All of these", "explanation": "Money serves as a medium of exchange, a unit of account, and a store of value."},
+  {"question": "Which body issues currency notes on behalf of the Central Government in India?", "options": ["SBI", "RBI", "Ministry of Finance", "World Bank"], "answer": "RBI", "explanation": "The Reserve Bank of India (RBI) issues currency notes in India."},
+  {"question": "Banks keep a small portion of deposits as ________ with themselves.", "options": ["Gold", "Cash", "Assets", "Bonds"], "answer": "Cash", "explanation": "Banks keep about 15% of their deposits as cash to pay depositors who might come to withdraw money."},
+  {"question": "The informal source of credit includes:", "options": ["Banks", "Cooperatives", "Moneylenders", "Insurance companies"], "answer": "Moneylenders", "explanation": "Moneylenders, traders, employers, relatives, and friends are informal sources."},
+  {"question": "SHG stands for:", "options": ["Self Help Group", "Self Health Group", "Social Help Group", "Service Help Group"], "answer": "Self Help Group", "explanation": "SHGs are small groups where members pool their savings."}
+]

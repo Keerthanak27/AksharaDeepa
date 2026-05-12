@@ -1,0 +1,8 @@
+[
+  {"question": "COPRA is an act passed in 1986 for:", "options": ["Company Protection", "Consumer Protection", "Cooperative Protection", "Copyright Protection"], "answer": "Consumer Protection", "explanation": "Consumer Protection Act (COPRA) was enacted to protect consumers from unfair trade practices."},
+  {"question": "The right to be informed about the details of goods and services is a:", "options": ["Duty", "Consumer Right", "Privilege", "Request"], "answer": "Consumer Right", "explanation": "Consumers have the right to know ingredients, price, batch number, etc."},
+  {"question": "ISI mark can be seen on which of the following products?", "options": ["Electrical goods", "Jewelry", "Food items", "Clothes"], "answer": "Electrical goods", "explanation": "ISI mark ensures the quality and safety of industrial and electrical products."},
+  {"question": "Agmark is used for:", "options": ["Industrial products", "Agricultural products", "Jewelry", "Handicrafts"], "answer": "Agricultural products", "explanation": "Agmark is a certification mark for agricultural products in India."},
+  {"question": "World Consumer Rights Day is celebrated on:", "options": ["March 15", "December 24", "January 1", "October 2"], "answer": "March 15", "explanation": "It is observed globally to raise awareness about consumer rights."},
+  {"question": "National Consumer Day in India is celebrated on:", "options": ["August 15", "December 24", "January 26", "October 2"], "answer": "December 24", "explanation": "It marks the day when COPRA was enacted in 1986."}
+]

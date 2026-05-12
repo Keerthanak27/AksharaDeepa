@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "What is the sum of all interior angles in any triangle?",
+    "options": ["90°", "180°", "270°", "360°"],
+    "answer": "180°",
+    "explanation": "No matter the shape or size, the three inside angles of a triangle always add up to exactly 180°."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "What do we call a triangle that has all three sides equal in length?",
+    "options": ["Scalene", "Isosceles", "Equilateral", "Right Angled"],
+    "answer": "Equilateral",
+    "explanation": "'Equi' means equal, and 'lateral' means side. An equilateral triangle has 3 equal sides."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "What is the measure of every angle in an equilateral triangle?",
+    "options": ["45°", "60°", "90°", "120°"],
+    "answer": "60°",
+    "explanation": "Since the total is 180° and all 3 angles are equal, we do 180 divided by 3, which is 60°."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "If a triangle has exactly two equal sides, what is it called?",
+    "options": ["Scalene", "Equilateral", "Right Angled", "Isosceles"],
+    "answer": "Isosceles",
+    "explanation": "An isosceles triangle is special because it has exactly two sides of the same length."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "What is the longest side of a right-angled triangle called?",
+    "options": ["Base", "Perpendicular", "Hypotenuse", "Altitude"],
+    "answer": "Hypotenuse",
+    "explanation": "The side directly opposite the 90° angle is the longest, and it is called the hypotenuse."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "Which of these triangles has NO equal sides?",
+    "options": ["Equilateral", "Isosceles", "Right Angled", "Scalene"],
+    "answer": "Scalene",
+    "explanation": "A scalene triangle has sides of three completely different lengths."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "Are all equilateral triangles similar to each other?",
+    "options": ["Yes", "No", "Only some are", "Cannot be determined"],
+    "answer": "Yes",
+    "explanation": "Since all equilateral triangles have exactly 60° angles, they always look like the same shape, just bigger or smaller."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "If two triangles have the exact same shape but different sizes, they are called:",
+    "options": ["Congruent", "Similar", "Equal", "Scalene"],
+    "answer": "Similar",
+    "explanation": "Similar triangles are like zoomed-in or zoomed-out versions of each other; the shape is identical, but the size differs."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "For two triangles to be Similar, their corresponding angles must be:",
+    "options": ["Different", "Equal", "Added together", "Divided"],
+    "answer": "Equal",
+    "explanation": "Triangles are similar when all their matching angles are exactly the same."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "Who created the Basic Proportionality Theorem (BPT)?",
+    "options": ["Pythagoras", "Einstein", "Thales", "Newton"],
+    "answer": "Thales",
+    "explanation": "The famous Greek mathematician Thales is known for the Basic Proportionality Theorem."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "According to the Basic Proportionality Theorem, if a line is drawn parallel to one side of a triangle, it divides the other two sides in the same:",
+    "options": ["Sum", "Length", "Ratio", "Area"],
+    "answer": "Ratio",
+    "explanation": "A parallel line slices the other two sides into parts that share the exact same proportion or ratio."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "In a right-angled triangle, the square of the hypotenuse is equal to:",
+    "options": ["The sum of the other two sides", "The sum of the squares of the other two sides", "The difference of the other two sides", "Double the base"],
+    "answer": "The sum of the squares of the other two sides",
+    "explanation": "This is Pythagoras Theorem: (Hypotenuse)² = (Base)² + (Perpendicular)²."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "Which of these side lengths form a right-angled triangle?",
+    "options": ["3, 4, 5", "2, 3, 4", "1, 2, 3", "4, 5, 6"],
+    "answer": "3, 4, 5",
+    "explanation": "Using Pythagoras theorem: 3² + 4² = 9 + 16 = 25, which is exactly 5²!"
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "What is an angle called if it is strictly greater than 0° and less than 90°?",
+    "options": ["Obtuse", "Acute", "Right", "Straight"],
+    "answer": "Acute",
+    "explanation": "Acute angles are 'cute' (small) and are always less than a perfect 90° corner."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "What is a line called that joins a corner (vertex) of a triangle to the middle of the opposite side?",
+    "options": ["Altitude", "Base", "Median", "Hypotenuse"],
+    "answer": "Median",
+    "explanation": "A median literally finds the 'middle' of the opposite side."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "An exterior angle of a triangle is always equal to the sum of its two:",
+    "options": ["Interior opposite angles", "Adjacent angles", "Base angles", "Hypotenuse sides"],
+    "answer": "Interior opposite angles",
+    "explanation": "The outside angle balances out exactly with the two inside angles that are furthest away from it."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "The sum of the lengths of any two sides of a triangle must always be ________ the third side.",
+    "options": ["Less than", "Equal to", "Greater than", "Half of"],
+    "answer": "Greater than",
+    "explanation": "A triangle cannot close to form a shape unless the two shorter sides combine to be longer than the longest side."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "easy",
+    "question": "If a triangle has an angle of exactly 90°, what do we call it?",
+    "options": ["Acute Triangle", "Right-angled Triangle", "Obtuse Triangle", "Scalene"],
+    "answer": "Right-angled Triangle",
+    "explanation": "The 90° angle is called a 'right angle', which gives the triangle its name."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "If two triangles are congruent, are they also similar?",
+    "options": ["Always yes", "Always no", "Only sometimes", "Cannot decide"],
+    "answer": "Always yes",
+    "explanation": "Congruent means identical in shape AND size. If they are identical, they naturally have the same shape, meaning they are Similar."
+  },
+  {
+    "chapter": "Triangles",
+    "difficulty": "medium",
+    "question": "What is the line called that drops straight down at 90° from a vertex to the opposite side?",
+    "options": ["Median", "Altitude (Height)", "Base", "Hypotenuse"],
+    "answer": "Altitude (Height)",
+    "explanation": "The altitude measures the pure vertical height of the triangle up from the base."
+  }
+]

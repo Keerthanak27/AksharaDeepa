@@ -1,0 +1,7 @@
+[
+  {"question": "What is the SI unit of electric current?", "options": ["Volt", "Ohm", "Ampere", "Watt"], "answer": "Ampere", "explanation": "Electric current is measured in Amperes (A)."},
+  {"question": "The instrument used to measure electric current is:", "options": ["Voltmeter", "Ammeter", "Galvanometer", "Potentiometer"], "answer": "Ammeter", "explanation": "An ammeter is always connected in series to measure current."},
+  {"question": "What is the work done in moving a unit charge between two points in an electric circuit called?", "options": ["Current", "Resistance", "Potential Difference", "Power"], "answer": "Potential Difference", "explanation": "Potential difference (Voltage) is the work done per unit charge."},
+  {"question": "According to Ohm's law, V = ?", "options": ["I / R", "I * R", "R / I", "I + R"], "answer": "I * R", "explanation": "V = IR is the mathematical expression of Ohm's law."},
+  {"question": "The resistivity of a material depends on its:", "options": ["Length", "Area of cross-section", "Nature of material", "All of these"], "answer": "Nature of material", "explanation": "Resistivity is a characteristic property of the material and its temperature."}
+]

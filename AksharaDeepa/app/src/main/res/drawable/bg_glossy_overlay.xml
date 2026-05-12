@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="#33FFFFFF"> <!-- The deep glass ripple color -->
+
+    <!-- Default resting state (transparent) -->
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <!-- Ensure corner radius matches the CardView (e.g., 20dp) -->
+            <corners android:radius="20dp"/>
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Pressed State (The Gloss Overlay) -->
+    <item>
+        <selector>
+            <item android:state_pressed="true">
+                <shape android:shape="rectangle">
+                    <corners android:radius="20dp" />
+                    <!-- Diagonal Glossy Gradient -->
+                    <gradient
+                        android:angle="135"
+                        android:startColor="#4DFFFFFF" 
+                        android:centerColor="#1AFFFFFF"
+                        android:endColor="#00FFFFFF" 
+                        android:type="linear"/>
+                </shape>
+            </item>
+            <!-- Default (Empty) -->
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@android:color/transparent"/>
+                </shape>
+            </item>
+        </selector>
+    </item>
+
+</ripple>

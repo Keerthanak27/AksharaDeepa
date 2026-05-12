@@ -1,0 +1,31 @@
+{
+  "subject": "Math",
+  "chapter": "Arithmetic Progression",
+  "studyGuide": [
+    {
+      "title": "Introduction",
+      "icon": "📘",
+      "content": "Arithmetic Progression (A.P.) is a simple list of numbers where the gap between any two numbers next to each other is always the same."
+    },
+    {
+      "title": "What is an A.P.?",
+      "icon": "🔢",
+      "content": "An A.P. is a sequence with a constant difference.\nExample: 2, 5, 8, 11\nHere, the gap is always 3. (5-2=3, 8-5=3)"
+    },
+    {
+      "title": "General Form",
+      "icon": "📐",
+      "content": "a, a + d, a + 2d, a + 3d, ...\nWhere:\na = first term\nd = common difference"
+    },
+    {
+      "title": "Important Formulas",
+      "icon": "💡",
+      "content": "To find any position (nth term):\naₙ = a + (n − 1)d\n\nTo find the total sum:\nSₙ = n/2 [2a + (n − 1)d]"
+    },
+    {
+      "title": "Important Points",
+      "icon": "📝",
+      "content": "• The difference 'd' can be positive, negative, or zero\n• Always subtract the old term from the new term to find 'd'\n• We use A.P. in real life to track salaries or regular bank savings"
+    }
+  ]
+}

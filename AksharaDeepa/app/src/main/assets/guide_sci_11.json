@@ -1,0 +1,16 @@
+{
+  "subject": "Science",
+  "chapter": "Life Processes",
+  "studyGuide": [
+    {
+      "title": "Key Points",
+      "icon": "🌱",
+      "content": "• Life processes are basic functions performed by living organisms to maintain their life on earth.\n• Nutrition: The process of intake of nutrients and its utilization.\n• Respiration: The process of releasing energy from food.\n• Transportation: Movement of substances like food, oxygen, and waste inside the body.\n• Excretion: Removal of harmful metabolic wastes from the body."
+    },
+    {
+      "title": "Important Definitions",
+      "icon": "🔬",
+      "content": "• Autotrophic Nutrition: Organisms make their own food from simple inorganic substances (e.g., Green plants).\n• Heterotrophic Nutrition: Organisms depend on other organisms for food.\n• Photosynthesis: Process by which plants prepare food using CO2, H2O, and Sunlight.\n• Transpiration: Loss of water in the form of vapor from aerial parts of the plant."
+    }
+  ]
+}

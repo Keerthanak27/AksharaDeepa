@@ -1,0 +1,7 @@
+[
+  {"question": "Globalization has led to the integration of markets across:", "options": ["Villages", "Cities", "Countries", "States"], "answer": "Countries", "explanation": "Globalization is the process of rapid integration or interconnection between countries."},
+  {"question": "MNC stands for:", "options": ["Multi National Corporation", "Multi National Council", "Major National Company", "Mixed National Corporation"], "answer": "Multi National Corporation", "explanation": "A company that owns or controls production in more than one nation."},
+  {"question": "Removing barriers or restrictions set by the government is known as:", "options": ["Globalization", "Liberalization", "Privatization", "Socialism"], "answer": "Liberalization", "explanation": "Liberalization allows businesses to make decisions freely about imports or exports."},
+  {"question": "Which organization aims to liberalize international trade?", "options": ["WHO", "WTO", "UN", "IMF"], "answer": "WTO", "explanation": "The World Trade Organization (WTO) establishes rules regarding international trade."},
+  {"question": "Rapid improvement in ________ has been one major factor that has stimulated the globalization process.", "options": ["Education", "Technology", "Health", "Population"], "answer": "Technology", "explanation": "Developments in ICT have made global communication and trade much faster."}
+]

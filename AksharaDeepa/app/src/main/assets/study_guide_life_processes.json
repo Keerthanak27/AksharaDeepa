@@ -1,0 +1,36 @@
+{
+  "subject": "Biology",
+  "chapter": "Life Processes",
+  "studyGuide": [
+    {
+      "title": "Introduction",
+      "icon": "🌱",
+      "content": "Life processes are the basic jobs that every living thing must do constantly to stay alive, like breathing, eating, and removing waste."
+    },
+    {
+      "title": "Nutrition (Eating)",
+      "icon": "🍎",
+      "content": "**Nutrition** is taking in food. Plants make their own food using sunlight. Animals and humans must eat other plants or animals."
+    },
+    {
+      "title": "Respiration (Breathing)",
+      "icon": "🫁",
+      "content": "**Respiration** is breaking down food to release energy using Oxygen. It gives our body the power to move and grow."
+    },
+    {
+      "title": "Transportation",
+      "icon": "❤️",
+      "content": "Our heart constantly pumps blood to carry food, oxygen, and water to absolutely every single part of our body."
+    },
+    {
+      "title": "Excretion (Cleaning)",
+      "icon": "💧",
+      "content": "Our body produces harmful waste. **Excretion** is the process where kidneys clean out that dangerous waste as urine."
+    },
+    {
+      "title": "Important Points",
+      "icon": "⚠️",
+      "content": "• These processes run perfectly together inside us every single second\n• If even one stops, the living organism will die\n• Even trees breathe and sweep water through their trunks!"
+    }
+  ]
+}

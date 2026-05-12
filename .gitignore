@@ -1,0 +1,4 @@
+# Project exclude paths
+/AksharaDeepa/.gradle/
+/AksharaDeepa/app/build/
+/AksharaDeepa/app/build/intermediates/javac/debug/classes/

@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "What is the process by which green plants make their own food?",
+    "options": ["Respiration", "Digestion", "Photosynthesis", "Excretion"],
+    "answer": "Photosynthesis",
+    "explanation": "'Photo' means light and 'synthesis' means putting together. Plants use sunlight to put their food together."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Which gas do plants take IN from the air to perform photosynthesis?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon dioxide",
+    "explanation": "Plants 'breathe in' carbon dioxide from the air and use it to build their food."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "What are the tiny holes on the surface of plant leaves called?",
+    "options": ["Stomata", "Roots", "Veins", "Stems"],
+    "answer": "Stomata",
+    "explanation": "Stomata are like tiny mouths on a leaf that open and close to let gases in and out."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Which important gas is RELEASED by plants during photosynthesis?",
+    "options": ["Nitrogen", "Carbon dioxide", "Methane", "Oxygen"],
+    "answer": "Oxygen",
+    "explanation": "Plants create oxygen as a leftover product of making food, which is why they are essential for human life."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "What is the process of naturally losing excess water from plant leaves called?",
+    "options": ["Sweating", "Transpiration", "Evaporation", "Respiration"],
+    "answer": "Transpiration",
+    "explanation": "Transpiration is like plant sweating. It helps pull water up from the roots to the leaves."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "What is the process of breaking down solid food into simple liquids our body can use?",
+    "options": ["Digestion", "Circulation", "Excretion", "Breathing"],
+    "answer": "Digestion",
+    "explanation": "Digestion breaks down your lunch into tiny nutrients that can easily travel into your blood."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Where does the digestion of food actually begin in the human body?",
+    "options": ["Stomach", "Mouth", "Small Intestine", "Large Intestine"],
+    "answer": "Mouth",
+    "explanation": "Digestion starts instantly in your mouth as your teeth crush food and saliva starts breaking it down."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "What strong acid is naturally produced in our stomach to help digest food and kill germs?",
+    "options": ["Sulfuric acid", "Hydrochloric acid", "Citric acid", "Nitric acid"],
+    "answer": "Hydrochloric acid",
+    "explanation": "The stomach releases hydrochloric acid to melt down tough food and destroy harmful bacteria."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "Which is the longest part of the human digestive system where almost all nutrients are absorbed?",
+    "options": ["Stomach", "Food pipe", "Large Intestine", "Small Intestine"],
+    "answer": "Small Intestine",
+    "explanation": "Despite being called 'small', it is very long and coiled up deeply to absorb all the goodness from your food."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Which crucial organ in the human body continuously pumps blood?",
+    "options": ["Lungs", "Brain", "Kidneys", "Heart"],
+    "answer": "Heart",
+    "explanation": "The heart is a powerful muscle that works day and night to pump blood everywhere in the body."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "What kind of blood vessels carry oxygen-rich blood AWAY from the heart?",
+    "options": ["Veins", "Arteries", "Nerves", "Capillaries"],
+    "answer": "Arteries",
+    "explanation": "Arteries carry fresh, oxygen-filled blood away from the heart, while Veins bring used blood back."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "What is the red pigment in our blood that carries oxygen called?",
+    "options": ["Plasma", "Chlorophyll", "Hemoglobin", "White blood cells"],
+    "answer": "Hemoglobin",
+    "explanation": "Hemoglobin is the red protein in your blood that catches oxygen in the lungs and drops it off in the body."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "The process of getting energy from food by using oxygen is called:",
+    "options": ["Digestion", "Respiration", "Excretion", "Reproduction"],
+    "answer": "Respiration",
+    "explanation": "Respiration happens in your cells. It mixes oxygen with food to create the energy you need to move."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "Where exactly is the energy (ATP) produced inside a human cell?",
+    "options": ["Nucleus", "Mitochondria", "Cell wall", "Blood"],
+    "answer": "Mitochondria",
+    "explanation": "Mitochondria are known as the 'powerhouses' of the cell because they generate all the energy."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "What do we call the type of respiration that happens without using any oxygen?",
+    "options": ["Aerobic respiration", "Anaerobic respiration", "Breathing", "Photosynthesis"],
+    "answer": "Anaerobic respiration",
+    "explanation": "'An' means without. Anaerobic respiration provides quick energy when there is a lack of oxygen."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Which system is responsible for removing waste and dangerous toxins from our body?",
+    "options": ["Digestive system", "Nervous system", "Excretory system", "Skeletal system"],
+    "answer": "Excretory system",
+    "explanation": "Excretion means to push waste out. This system ensures poisons do not build up inside us."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "Which bean-shaped organs constantly filter our blood to produce urine?",
+    "options": ["Lungs", "Liver", "Heart", "Kidneys"],
+    "answer": "Kidneys",
+    "explanation": "You have two kidneys in your lower back that act like water filters, cleaning your blood to make urine."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "easy",
+    "question": "What is the main function of the human lungs?",
+    "options": ["To pump blood", "To digest food", "To take in oxygen and throw out carbon dioxide", "To filter urine"],
+    "answer": "To take in oxygen and throw out carbon dioxide",
+    "explanation": "Lungs are like balloons that pull in fresh oxygen for the body and push out waste carbon dioxide."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "Water is pushed from the ground all the way up to the leaves through tissue called:",
+    "options": ["Phloem", "Xylem", "Stomata", "Roots"],
+    "answer": "Xylem",
+    "explanation": "The Xylem acts like a water pipe inside the plant stem to suck water straight up from the dirt."
+  },
+  {
+    "chapter": "Life Processes",
+    "difficulty": "medium",
+    "question": "Which tissue transports the cooked food from the leaves down to the rest of the plant?",
+    "options": ["Xylem", "Phloem", "Stomata", "Chloroplast"],
+    "answer": "Phloem",
+    "explanation": "While Xylem carries water up, Phloem carries the sweet food moving down from the leaves."
+  }
+]

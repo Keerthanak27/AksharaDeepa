@@ -1,0 +1,16 @@
+{
+  "subject": "Mathematics",
+  "chapter": "Arithmetic Progression",
+  "studyGuide": [
+    {
+      "title": "Key Points",
+      "icon": "📝",
+      "content": "• An Arithmetic Progression is a list of numbers in which each term is obtained by adding a fixed number to the preceding term.\n• The fixed number is called the common difference (d).\n• If the first term is 'a' and common difference is 'd', the terms are a, a+d, a+2d...\n• AP can be finite or infinite.\n• If d > 0, AP is increasing; if d < 0, it is decreasing."
+    },
+    {
+      "title": "Important Formulas",
+      "icon": "🔢",
+      "content": "• n-th term (General term): an = a + (n - 1)d\n• Sum of first n terms: Sn = n/2 [2a + (n - 1)d]\n• Sum using last term (l): Sn = n/2 [a + l]\n• Common difference: d = an - a(n-1)"
+    }
+  ]
+}

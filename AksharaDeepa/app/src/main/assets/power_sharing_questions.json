@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "What is the simplest meaning of 'Power Sharing' in a democracy?",
+    "options": ["One leader rules everyone", "Sharing control and decisions among different groups", "Giving all power to the military", "Having no government at all"],
+    "answer": "Sharing control and decisions among different groups",
+    "explanation": "Power sharing simply means dividing the power to make decisions so that no single group or person becomes a dictator."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Which two major language groups had tensions in the country of Belgium?",
+    "options": ["English and Spanish", "Hindi and Tamil", "Dutch and French", "German and Italian"],
+    "answer": "Dutch and French",
+    "explanation": "Belgium faced conflicts because the Dutch-speaking people and French-speaking people both wanted more control."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "In Sri Lanka, which community formed the large majority and tried to rule over everyone else?",
+    "options": ["Tamil speakers", "Sinhala speakers", "English speakers", "Dutch speakers"],
+    "answer": "Sinhala speakers",
+    "explanation": "The Sinhala community was the largest group in Sri Lanka and used their size to overpower the minorities."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "What is the policy called where the largest community forces its will on a smaller group?",
+    "options": ["Democracy", "Federalism", "Majoritarianism", "Equality"],
+    "answer": "Majoritarianism",
+    "explanation": "Majoritarianism is the dangerous belief that simply having the 'majority' gives you the right to ignore others."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "What was the tragic final result of Sri Lanka's refusal to share power with the Tamil community?",
+    "options": ["Peace", "Economic growth", "A brutal Civil War", "A community government"],
+    "answer": "A brutal Civil War",
+    "explanation": "Because the minority felt ignored and oppressed, anger boiled over into a deadly civil war."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "How did Belgium completely solve its language conflict and avoid a civil war?",
+    "options": ["By splitting the country in two", "By sharing power equally between both language groups", "By forcing everyone to speak French", "By letting the army take over"],
+    "answer": "By sharing power equally between both language groups",
+    "explanation": "Belgium created a brilliant constitution that guaranteed both French and Dutch speakers equal power in the capital."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Sharing power between the Legislature, Executive, and Judiciary is known as:",
+    "options": ["Vertical power sharing", "Horizontal power sharing", "Community sharing", "Majoritarianism"],
+    "answer": "Horizontal power sharing",
+    "explanation": "Since all three organs are on the exact same level (horizontal tree), they simply watch over each other."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Why is the separation between Legislature, Executive, and Judiciary often called a system of 'Checks and Balances'?",
+    "options": ["Because they share bank accounts", "Because each organ checks the others to ensure no one becomes too powerful", "Because they write checks", "Because they check exam papers"],
+    "answer": "Because each organ checks the others to ensure no one becomes too powerful",
+    "explanation": "This horizontal system 'balances' power. If the Executive does something illegal, the Judiciary can 'check' them."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "What do we call the sharing of power from a high Central Government down to State and Local Governments?",
+    "options": ["Horizontal power sharing", "Vertical power sharing", "Dictatorship", "Monarchy"],
+    "answer": "Vertical power sharing",
+    "explanation": "Imagine a ladder: Power moves vertically down from the giant Central government to the smaller Local village councils."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "What is the common term used worldwide for a government using 'Vertical Power Sharing'?",
+    "options": ["Federal Government", "Unitary Government", "Communist Government", "Kingdom"],
+    "answer": "Federal Government",
+    "explanation": "A Federal system is literally defined by power being divided vertically between a central authority and its states."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "What is the most practical (Prudential) reason that power sharing is good?",
+    "options": ["It looks good on paper", "It reduces violence and fights between social groups", "It makes people vote more", "It saves money"],
+    "answer": "It reduces violence and fights between social groups",
+    "explanation": "Prudential means practical: If you share power fairly, people are happy and they don't start riots or civil wars."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "What is the 'Moral' reason for power sharing?",
+    "options": ["It prevents fighting", "It is the very spirit and soul of a true democracy", "It makes the country rich", "It is required by the UN"],
+    "answer": "It is the very spirit and soul of a true democracy",
+    "explanation": "Morally speaking, true democracy cannot exist unless the regular people being ruled actually have a share in the ruling power."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "In Belgium, a special third kind of government was created just to handle culture, education, and language. What is it called?",
+    "options": ["State Government", "Military Government", "Community Government", "Central Government"],
+    "answer": "Community Government",
+    "explanation": "This clever 'Community Government' is elected only by people belonging to that specific language community, no matter where they live."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Reserving special seats in the government for women or weaker sections of society is an example of:",
+    "options": ["Power sharing among different social groups", "Vertical sharing", "Checks and balances", "Majoritarianism"],
+    "answer": "Power sharing among different social groups",
+    "explanation": "This gives minority groups and women a fair space in the government so they aren't ignored by the majority."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "When two or more political parties join hands together to run the government, it is called a:",
+    "options": ["Unitary Government", "Coalition Government", "Dictatorship", "Community Government"],
+    "answer": "Coalition Government",
+    "explanation": "A coalition forces different political parties to share power and make decisions together instead of fighting."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "Did sharing power make Belgium weaker or stronger?",
+    "options": ["Weaker, it caused confusion", "Stronger, because it prevented the country from breaking apart", "It made no difference", "It destroyed their economy"],
+    "answer": "Stronger, because it prevented the country from breaking apart",
+    "explanation": "By respecting everyone's feelings and sharing power, Belgium stayed united and peaceful."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "In a true democracy, who holds the ultimate political power?",
+    "options": ["The President", "The Army", "The Citizens (The People)", "The Judges"],
+    "answer": "The Citizens (The People)",
+    "explanation": "Democracy means 'rule by the people'. Citizens hold the ultimate power by choosing who represents them."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Which of these is the 'Legislature' part of horizontal power sharing?",
+    "options": ["The police", "The courts and judges", "The parliament or assembly making laws", "The military"],
+    "answer": "The parliament or assembly making laws",
+    "explanation": "The word 'Legislature' literally means the body of people that 'legislate' or write the laws."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "medium",
+    "question": "Which of these is the 'Judiciary' part of horizontal power sharing?",
+    "options": ["The parliament", "The ministers", "The courts and judges", "The army"],
+    "answer": "The courts and judges",
+    "explanation": "The Judiciary 'judges'. They operate the court system to ensure the laws are fair and followed."
+  },
+  {
+    "chapter": "Power Sharing",
+    "difficulty": "easy",
+    "question": "Can pressure groups and business associations share power in a democracy?",
+    "options": ["Yes, by influencing decisions and policies", "No, only politicians have power", "Yes, by buying the country", "No, it is illegal"],
+    "answer": "Yes, by influencing decisions and policies",
+    "explanation": "Even groups like farmer unions or business associations hold power by protesting and shaping what the government decides to do."
+  }
+]

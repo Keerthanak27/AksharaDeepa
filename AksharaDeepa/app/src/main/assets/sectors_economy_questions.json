@@ -1,0 +1,7 @@
+[
+  {"question": "Which sector is also known as the Agriculture and related sector?", "options": ["Primary", "Secondary", "Tertiary", "Information"], "answer": "Primary", "explanation": "It involves direct use of natural resources."},
+  {"question": "Manufacturing comes under which sector?", "options": ["Primary", "Secondary", "Tertiary", "Service"], "answer": "Secondary", "explanation": "Secondary sector covers activities in which natural products are changed into other forms through manufacturing."},
+  {"question": "The Tertiary sector is also called the:", "options": ["Industrial sector", "Service sector", "Knowledge sector", "Product sector"], "answer": "Service sector", "explanation": "It generates services rather than goods."},
+  {"question": "In India, the largest employer among the sectors is:", "options": ["Primary", "Secondary", "Tertiary", "Public"], "answer": "Primary", "explanation": "More than half of the workers in the country are working in the primary sector, mainly in agriculture."},
+  {"question": "Disguised unemployment is mostly found in:", "options": ["Industries", "Trade", "Agriculture", "Transport"], "answer": "Agriculture", "explanation": "It occurs when more people are working than necessary."}
+]

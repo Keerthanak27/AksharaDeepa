@@ -1,0 +1,41 @@
+{
+  "subject": "Science",
+  "chapter": "Chemical Reactions",
+  "studyGuide": [
+    {
+      "title": "Introduction",
+      "icon": "🧪",
+      "content": "A chemical reaction is a permanent process where ordinary substances mix together and completely change into brand new substances."
+    },
+    {
+      "title": "What is a Chemical Reaction?",
+      "icon": "🔬",
+      "content": "It is a change where the original things are lost forever and new materials are formed.\n**Example:** Iron + Water + Oxygen = Rust."
+    },
+    {
+      "title": "Types of Reactions",
+      "icon": "📊",
+      "content": "**Combination:** Two things join to make one big thing.\n**Decomposition:** One big thing breaks down into small pieces.\n**Displacement:** A strong metal pushes a weak metal away."
+    },
+    {
+      "title": "Oxidation & Reduction",
+      "icon": "⚡",
+      "content": "**Oxidation** = When a substance gains oxygen (like a freshly cut apple turning brown).\n**Reduction** = When a substance loses oxygen."
+    },
+    {
+      "title": "Heat Changes",
+      "icon": "🔥",
+      "content": "**Exothermic** = The reaction releases heat and the glass gets hot.\n**Endothermic** = The reaction absorbs heat and gets colder, or needs a fire to keep going."
+    },
+    {
+      "title": "Important Signs",
+      "icon": "👀",
+      "content": "How do you know a reaction just happened?\n• Changing colors rapidly\n• Bubbles or gas shooting out\n• The container becomes extremely hot or cold"
+    },
+    {
+      "title": "Important Points",
+      "icon": "⚠️",
+      "content": "• New substances are entirely different from the old ones.\n• Mass is never lost! (Law of Conservation of Mass)\n• We see this everywhere in daily life: digestion, cooking food, and breathing."
+    }
+  ]
+}

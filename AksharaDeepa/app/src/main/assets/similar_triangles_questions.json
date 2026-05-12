@@ -1,0 +1,7 @@
+[
+  {"question": "If two triangles are similar, their corresponding sides are in the same:", "options": ["Angle", "Ratio", "Sum", "Difference"], "answer": "Ratio", "explanation": "Similar triangles have sides that are proportional."},
+  {"question": "All circles are:", "options": ["Congruent", "Similar", "Equal", "Square"], "answer": "Similar", "explanation": "All circles have the same shape."},
+  {"question": "The ratio of the areas of two similar triangles is equal to the square of the ratio of their corresponding:", "options": ["Angles", "Perimeters", "Sides", "Altitudes"], "answer": "Sides", "explanation": "Area ratio is the square of the side ratio."},
+  {"question": "If a line divides any two sides of a triangle in the same ratio, then the line is parallel to the third side. This is:", "options": ["BPT", "Converse of BPT", "Pythagoras Theorem", "Mid-point Theorem"], "answer": "Converse of BPT", "explanation": "It's the reverse of Basic Proportionality Theorem."},
+  {"question": "Which of the following is a similarity criterion for triangles?", "options": ["SAS", "AAA", "SSS", "All of these"], "answer": "All of these", "explanation": "SAS, AAA, and SSS are all valid similarity criteria."}
+]

@@ -1,0 +1,7 @@
+[
+  {"question": "What is the most common indicator used for comparing the development of different countries?", "options": ["Population", "Total Income", "Per Capita Income", "Literacy Rate"], "answer": "Per Capita Income", "explanation": "World Bank uses Per Capita Income to classify countries."},
+  {"question": "Human Development Index (HDI) is published by:", "options": ["World Bank", "UNDP", "IMF", "WHO"], "answer": "UNDP", "explanation": "United Nations Development Programme (UNDP) publishes the HDI report."},
+  {"question": "Sustainable development means development that meets the needs of the:", "options": ["Present only", "Future only", "Present and Future", "Government"], "answer": "Present and Future", "explanation": "It balances current growth without compromising future generations' needs."},
+  {"question": "Life Expectancy at Birth denotes the average expected length of life of a person at the time of:", "options": ["Marriage", "Retirement", "Birth", "Death"], "answer": "Birth", "explanation": "It's a measure of the health and longevity of a population."},
+  {"question": "BMI (Body Mass Index) is used to calculate:", "options": ["Intelligence", "Height", "Nutritional level", "Weight"], "answer": "Nutritional level", "explanation": "BMI helps determine if an adult is undernourished or overweight."}
+]

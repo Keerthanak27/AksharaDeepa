@@ -1,0 +1,36 @@
+{
+  "subject": "Math",
+  "chapter": "Triangles",
+  "studyGuide": [
+    {
+      "title": "Introduction",
+      "icon": "📘",
+      "content": "A triangle is a simple closed shape bounded by exactly 3 straight sides. The sum of all its inside angles is always 180°."
+    },
+    {
+      "title": "Types of Triangles",
+      "icon": "📐",
+      "content": "**Equilateral:** All 3 sides are equal.\n**Isosceles:** Exactly 2 sides are equal.\n**Scalene:** No sides are equal."
+    },
+    {
+      "title": "Similar vs. Congruent",
+      "icon": "🔍",
+      "content": "**Similar:** Look like the same shape but different sizes (like toy cars vs real cars).\n**Congruent:** Exactly the same shape AND size (like twin copies)."
+    },
+    {
+      "title": "Basic Proportionality Theorem (BPT)",
+      "icon": "📏",
+      "content": "If you draw a straight line inside the triangle parallel to the bottom side, it cuts the left and right sides in the exact same matching ratio."
+    },
+    {
+      "title": "The Pythagoras Theorem",
+      "icon": "🧮",
+      "content": "In a right-angled triangle (90° corner), the biggest side (Hypotenuse) squared equals the sum of the squares of the other two sides:\n**Hypotenuse² = Base² + Height²**"
+    },
+    {
+      "title": "Important Points",
+      "icon": "📝",
+      "content": "• The Hypotenuse is always the longest side.\n• Triangles are the strongest shape used in building bridges.\n• AAA, SSS, and SAS are rules to prove two triangles are mathematically similar."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+[
+  {"question": "Which of the following is a biodegradable waste?", "options": ["Plastic", "Glass", "Paper", "DDT"], "answer": "Paper", "explanation": "Paper can be broken down by microorganisms in the environment."},
+  {"question": "In a food chain, the third trophic level is always occupied by:", "options": ["Carnivores", "Herbivores", "Decomposers", "Producers"], "answer": "Carnivores", "explanation": "Producers are 1st, Herbivores are 2nd, and Carnivores are usually 3rd."},
+  {"question": "The percentage of solar energy captured by plants is about:", "options": ["1%", "10%", "50%", "100%"], "answer": "1%", "explanation": "Green plants capture only about 1% of the energy of sunlight that falls on their leaves."},
+  {"question": "Which chemical is mainly responsible for ozone layer depletion?", "options": ["CO2", "CH4", "CFCs", "NO2"], "answer": "CFCs", "explanation": "Chlorofluorocarbons (CFCs) react with ozone molecules, breaking them down."},
+  {"question": "According to the 10 percent law, how much energy is available at the next trophic level?", "options": ["1%", "10%", "20%", "90%"], "answer": "10%", "explanation": "Only 10% of the energy is transferred to the next level; the rest is lost as heat or used for processes."}
+]

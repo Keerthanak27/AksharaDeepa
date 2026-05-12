@@ -1,0 +1,7 @@
+[
+  {"question": "The magnetic field lines outside a bar magnet:", "options": ["Go from North to South", "Go from South to North", "Are parallel lines", "Are circular"], "answer": "Go from North to South", "explanation": "Magnetic field lines emerge from the North pole and enter the South pole outside the magnet."},
+  {"question": "A device that converts electrical energy into mechanical energy is:", "options": ["Generator", "Motor", "Galvanometer", "Ammeter"], "answer": "Motor", "explanation": "An electric motor uses magnetic effects of current to produce motion."},
+  {"question": "The direction of magnetic field produced by a straight current-carrying conductor can be found using:", "options": ["Fleming's Left Hand Rule", "Right Hand Thumb Rule", "Lenz's Law", "Ohm's Law"], "answer": "Right Hand Thumb Rule", "explanation": "Point thumb in current direction; fingers curl in magnetic field direction."},
+  {"question": "What happens to the magnetic field inside a solenoid if current increases?", "options": ["Decreases", "Increases", "Stays same", "Becomes zero"], "answer": "Increases", "explanation": "Magnetic field strength is directly proportional to the current."},
+  {"question": "Which rule is used to find the direction of force on a current-carrying conductor in a magnetic field?", "options": ["Right Hand Thumb Rule", "Fleming's Left Hand Rule", "Fleming's Right Hand Rule", "Maxell's Rule"], "answer": "Fleming's Left Hand Rule", "explanation": "Left hand rule relates force, magnetic field, and current."}
+]

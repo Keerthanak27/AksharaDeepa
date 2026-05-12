@@ -1,0 +1,162 @@
+[
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What do we call the original substances that mix together to start a chemical reaction?",
+    "options": ["Products", "Reactants", "Mixtures", "Solutions"],
+    "answer": "Reactants",
+    "explanation": "Reactants are the starting materials that 'react' together to create something new."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What do we call the new substance formed after a chemical reaction is finished?",
+    "options": ["Product", "Reactant", "Atom", "Gas"],
+    "answer": "Product",
+    "explanation": "Just like a factory produces goods, a reaction 'produces' new substances called products."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "A reaction where two or more simple things join together to form one big substance is called:",
+    "options": ["Decomposition", "Combination", "Displacement", "Oxidation"],
+    "answer": "Combination",
+    "explanation": "To combine means to join together. Two things combining into one is a combination reaction."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "When one big substance breaks down into two or more smaller parts, it is called:",
+    "options": ["Combination", "Decomposition", "Reduction", "Rusting"],
+    "answer": "Decomposition",
+    "explanation": "Decompose means to break down. For example, leaving a dead plant to rot (break down) is decomposition."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "Digestion of food in our body breaks large food pieces into simple energy. What type of reaction is this?",
+    "options": ["Combination", "Displacement", "Decomposition", "Rusting"],
+    "answer": "Decomposition",
+    "explanation": "Since large food pieces are breaking down into smaller, simpler parts, it is a decomposition reaction."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "Which of these is the simplest definition of Oxidation?",
+    "options": ["Gaining Oxygen", "Losing Oxygen", "Gaining Water", "Losing Heat"],
+    "answer": "Gaining Oxygen",
+    "explanation": "The word itself has 'Oxi' in it! Oxidation simply means oxygen has been added to a substance."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What is it called when a substance LOSES oxygen during a reaction?",
+    "options": ["Oxidation", "Combination", "Reduction", "Rusting"],
+    "answer": "Reduction",
+    "explanation": "If the amount of oxygen is 'reduced' or taken away, we call it a Reduction reaction."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "Rusting of iron (like an old bicycle turning brown outside) is an example of:",
+    "options": ["Reduction", "Oxidation", "Decomposition", "Endothermic"],
+    "answer": "Oxidation",
+    "explanation": "Iron rusts because it constantly touches oxygen and moisture in the air, meaning it 'gains oxygen' (Oxidation)."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "A chemical reaction that naturally RELEASES heat (making things hot) is called:",
+    "options": ["Endothermic", "Exothermic", "Cold reaction", "Decomposition"],
+    "answer": "Exothermic",
+    "explanation": "'Exo' sounds like 'Exit'. Heat is exiting or leaving the reaction, making the surroundings hot."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "A reaction that ABSORBS heat (needs you to constantly heat it on a stove) is called:",
+    "options": ["Exothermic", "Endothermic", "Oxidation", "Displacement"],
+    "answer": "Endothermic",
+    "explanation": "'Endo' sounds like 'Enter'. Heat must enter the reaction for it to work."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Breathing (Respiration) produces energy inside our bodies. Therefore, respiration is an:",
+    "options": ["Endothermic reaction", "Exothermic reaction", "Displacement reaction", "Reduction reaction"],
+    "answer": "Exothermic reaction",
+    "explanation": "Since breathing releases energy (and warmth) into our bodies, it is Exothermic."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Plants need sunlight (energy) to perform Photosynthesis. What reaction is this?",
+    "options": ["Exothermic", "Endothermic", "Reduction", "Displacement"],
+    "answer": "Endothermic",
+    "explanation": "Because plants must 'absorb' sunlight energy for the reaction to happen, it is Endothermic."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "When a strong, highly reactive metal pushes away a weak metal and takes its place, it is called a:",
+    "options": ["Combination reaction", "Decomposition reaction", "Displacement reaction", "Rusting"],
+    "answer": "Displacement reaction",
+    "explanation": "To 'displace' means to move something out of its place. The stronger substance replaces the weaker one."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "Which rule says that mass can never be magically created from nothing, and never truly destroyed?",
+    "options": ["Law of Gravity", "Law of Conservation of Mass", "Law of Chemistry", "Law of Displacement"],
+    "answer": "Law of Conservation of Mass",
+    "explanation": "Conservation means 'to save or protect'. Mass is always protected; the total weight before and after a reaction is identical."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Why do scientists balance chemical equations?",
+    "options": ["To make it look nice", "To follow the Law of Conservation of Mass", "Because atoms can disappear", "To change the colors"],
+    "answer": "To follow the Law of Conservation of Mass",
+    "explanation": "Balancing ensures the exact same number of atoms we start with are still there at the end."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "When old food or butter smells bad and tastes sour because it was left outside, this is caused by:",
+    "options": ["Reduction", "Rancidity", "Displacement", "Endothermic heat"],
+    "answer": "Rancidity",
+    "explanation": "Rancidity is the scientific word for fats and oils going bad because they oxidized in the open air."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What is the fastest way to prevent your chips and snacks from going rancid (going bad)?",
+    "options": ["Keep them in sunlight", "Flush the bag with Nitrogen gas", "Add water", "Heat them up"],
+    "answer": "Flush the bag with Nitrogen gas",
+    "explanation": "Companies fill chip bags with Nitrogen to block Oxygen out, stopping oxidation from ruining the food."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "Which gas is famous for producing a sharp 'pop' sound when you bring a burning match near it?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Hydrogen",
+    "explanation": "Hydrogen gas is highly flammable, so a tiny spark makes it burn instantly with a small 'pop' noise."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "easy",
+    "question": "What do you usually see bubbling out if a gas is created during a reaction in a liquid?",
+    "options": ["Color changes", "Bubbles / Effervescence", "A solid stone", "Flames"],
+    "answer": "Bubbles / Effervescence",
+    "explanation": "When gas is formed underwater or inside a liquid, it quickly rises to the top as bubbles."
+  },
+  {
+    "chapter": "Chemical Reactions",
+    "difficulty": "medium",
+    "question": "If two clear liquids are specifically mixed together and suddenly they form a solid powder that sinks to the bottom, this powder is called a:",
+    "options": ["Gas", "Precipitate", "Solvent", "Reactant"],
+    "answer": "Precipitate",
+    "explanation": "A precipitate is an insoluble solid that magically 'appears' and drops down when two liquids react."
+  }
+]

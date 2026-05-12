@@ -1,0 +1,36 @@
+{
+  "subject": "Social Science",
+  "chapter": "Power Sharing",
+  "studyGuide": [
+    {
+      "title": "Introduction",
+      "icon": "🤝",
+      "content": "Power Sharing means dividing the government's power among different groups so that no single person becomes a powerful dictator."
+    },
+    {
+      "title": "Why is it Important?",
+      "icon": "⚖️",
+      "content": "Sharing power stops fights between different religions, languages, or castes. It keeps the entire country peaceful and united."
+    },
+    {
+      "title": "Horizontal Power Sharing",
+      "icon": "🏛️",
+      "content": "Power is split evenly sideways: **Legislature** (makes laws), **Executive** (enforces laws), and **Judiciary** (courts)."
+    },
+    {
+      "title": "Vertical Power Sharing",
+      "icon": "📉",
+      "content": "Power is shared downwards like a ladder: from the big Central Government down to the State Government, and then the local Village Panchayat."
+    },
+    {
+      "title": "Sri Lanka vs Belgium",
+      "icon": "🌍",
+      "content": "Sri Lanka refused to share power, leading to a deadly civil war. Belgium shared power wonderfully, leading to peace!"
+    },
+    {
+      "title": "Important Points",
+      "icon": "⚠️",
+      "content": "• It is the true spirit and soul of a democracy\n• It prevents large majorities from bullying small minorities\n• Sometimes political parties join together to share a 'Coalition' government."
+    }
+  ]
+}
